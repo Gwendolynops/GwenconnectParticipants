@@ -1,0 +1,16 @@
+{
+  "name": "GwenConnect Participants",
+  "short_name": "GwenConnect",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f2d52",
+  "theme_color": "#0f2d52",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Gwendolynops/GwenconnectParticipants/main/staff_sign_in_app_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
